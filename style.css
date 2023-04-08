@@ -1,0 +1,28 @@
+body{
+    background-color: #626cfa;
+}
+.div-graficos{
+    height: 40vw;
+    border-radius: 10%;
+    background-color: #ededed;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.grafico{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 500px;
+    height: 500px;
+    padding: 50px;
+}
+.title{
+    text-align: center;
+    color: #ededed;
+    font-style: italic;
+    font-family: 'fantasy';
+}
+.borda{
+    border-right: 1px solid #626cfa;
+}
